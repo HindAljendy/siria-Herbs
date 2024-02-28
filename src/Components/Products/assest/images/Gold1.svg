@@ -1,0 +1,20 @@
+<svg width="257" height="303" viewBox="0 0 257 303" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_2097_2365)">
+<rect x="20" y="52.3281" width="179" height="244" transform="rotate(-15 20 52.3281)" fill="url(#pattern0)" shape-rendering="crispEdges"/>
+</g>
+<defs>
+<filter id="filter0_d_2097_2365" x="0" y="-0.000488281" width="256.053" height="302.015" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-10" dy="4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2097_2365"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2097_2365" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2097_2365" transform="matrix(0.0015253 0 0 0.00115039 -0.339286 -0.16835)"/>
+</pattern>
+</defs>
+</svg>
