@@ -10,7 +10,6 @@ import About from './Components/About/About';
 import { useState } from 'react';
 import Home from './Components/Home/Home';
 
-const subdirectory ='/siria_1';
 
 function App() {
   const [brandInfo, setBrandInfo] = useState(null);
@@ -19,9 +18,9 @@ function App() {
   
   const Layout=()=>{
     return(
-      <div >
+      <div>
         <NavbarTop/>
-        <ScrollRestoration/>
+        <ScrollRestoration />
         <Outlet/>
         <Footer/>
       </div>
@@ -34,7 +33,7 @@ const router=createBrowserRouter([
     element:<Layout/>,
     children:[
       {
-        path:"/",
+        path:"/siria_1",
         element:<Home/>
        
       },
@@ -63,6 +62,7 @@ const router=createBrowserRouter([
         element:<About/>
        
       },
+
       
      
 
@@ -71,8 +71,8 @@ const router=createBrowserRouter([
 ]);
   return (
     <div>
-    <RouterProvider
-    router={router}  />
+    <RouterProvider 
+     router={router} />
   </div>
   );
 }
