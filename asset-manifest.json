@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/siria-Herbs/static/css/main.b6571b44.css",
-    "main.js": "/siria-Herbs/static/js/main.f68193a0.js",
+    "main.js": "/siria-Herbs/static/js/main.e649037c.js",
     "static/js/787.29dbf477.chunk.js": "/siria-Herbs/static/js/787.29dbf477.chunk.js",
     "static/media/backMalica.png": "/siria-Herbs/static/media/backMalica.75b95fa09c8f0fe7671d.png",
     "static/media/header.png": "/siria-Herbs/static/media/header.c4bd8c277a35e14ba5b4.png",
@@ -60,11 +60,11 @@
     "static/media/certeficate-logo.svg": "/siria-Herbs/static/media/certeficate-logo.433ac71f6b0b65b16f9f2f4adfe7c1f3.svg",
     "static/media/grayOgaro.svg": "/siria-Herbs/static/media/grayOgaro.d0931f8409fb19500f9d6474335e2a8d.svg",
     "main.b6571b44.css.map": "/siria-Herbs/static/css/main.b6571b44.css.map",
-    "main.f68193a0.js.map": "/siria-Herbs/static/js/main.f68193a0.js.map",
+    "main.e649037c.js.map": "/siria-Herbs/static/js/main.e649037c.js.map",
     "787.29dbf477.chunk.js.map": "/siria-Herbs/static/js/787.29dbf477.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6571b44.css",
-    "static/js/main.f68193a0.js"
+    "static/js/main.e649037c.js"
   ]
 }
